@@ -43,7 +43,7 @@ Error during conversion of wordlists to DAWGs!!
 ERROR: Program Program failed. Abort. 
 ```
 It because that the LF in Unix corresponding to the CRLF in Windows.
-Please correct all the CRLF in the files in the path of tesstrainsh-win/langdata_lstm/eng to LF.
+Please correct all the CRLF in the files in the path of `tesstrainsh-win/langdata_lstm/eng` to LF.
 
 If the command is executed successfully， these tips will be showed:
 ```
